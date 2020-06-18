@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">UniMakSL-eLearn App</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="share">Share</string>
+    <string name="rateApp">Rate App</string>
+    <string name="shareMsg">Download it from Google Play Store Free Here \\n https://play.google.com/store/apps/details?id=</string>
+    <string name="moreApps">More Apps</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="logo">logo</string>
+
+    <!-- terms and conditions, privacy policy and faq url -->
+    <string name="terms_url">https://docs.google.com/document/d/1-UJjnUSd6f82gNvwZznTDiDSYfnHX2fYQpjpmBG_RNg/edit?usp=sharing</string>
+    <string name="privacy_url">https://docs.google.com/document/d/1pfm5xgtbXW4Twxbh_8Q_3-75QoO5KySZkysli3zE0gI/edit?usp=sharing</string>
+    <string name="faq_url">https://docs.google.com/document/d/122500Gtso7Fj3VhMB5TNKaELZrfR95urBNJczI63DFQ/edit?usp=sharing</string>
+
+</resources>
